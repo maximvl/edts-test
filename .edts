@@ -1,0 +1,3 @@
+:name "edts-test"
+:lib-dirs '("apps")
+:erlang-cookie "edts-test"
